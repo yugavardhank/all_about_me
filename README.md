@@ -11,14 +11,17 @@
 **🌍 Leadership & Community** – President of CodeXTAU Society, leading workshops & coding events
 
 **🏆 Notable Projects:**
+
 **🔹 Smart Attendance System (Barcode-Based)**
 > Developed an efficient barcode-based attendance system to eliminate proxy attendance
 > Achieved 2nd place at TARIGYM 2024 Research Event
 > Focused on accuracy, security, and scalability
+
 **🔹 AI-Based Voice Assistant**
 > Built a Python-powered AI assistant capable of task automation
 > Features include web search, application launch, music playback, and article reading
 > Enhanced NLP capabilities through iterative development
+
 **🔹 Mario Game using Python**
 > Developed an engaging arcade-style Mario game
 > Implemented progressive difficulty levels for a dynamic user experience
@@ -28,6 +31,7 @@
 Interested in AI-driven healthcare solutions and financial tech innovations.
 
 **🏅 Leadership & Achievements:**
+
 **🎓 President of CodeXTAU Society** – Organized webinars, hackathons, and coding workshops
 **🌍 MUN Delegate** – Represented Canada in UNSC at a Model UN Conference
 **🏆 International & National Competitions** – Ranked in Top 10 in State-Level International Spell Bee
